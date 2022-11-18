@@ -1,0 +1,285 @@
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(201).jpg 112,3,693,393,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(1).jpg 103,103,435,301,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(200).jpg 110,9,552,312,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(195).jpg 85,87,223,203,0 120,211,209,289,0 24,233,60,290,0 255,250,281,292,0 253,138,282,224,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(197).jpg 53,83,313,335,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(234).jpg 195,56,435,208,0 342,120,680,323,0 391,295,499,446,0 220,285,283,411,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(224).jpg 40,182,202,352,0 5,0,256,108,0 21,111,234,179,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(209).jpg 223,157,371,378,0 47,120,107,230,0 20,249,73,354,0 150,54,201,117,0 144,151,218,259,0 473,86,537,305,0 326,35,384,112,0 152,300,438,396,0 482,311,576,394,0 67,66,119,111,0 17,361,49,394,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(233).jpg 152,147,291,202,0 135,89,278,146,0 53,176,169,221,0 218,65,258,88,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(220).jpg 121,75,565,288,0 23,7,207,130,0 217,292,548,392,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(100).jpg 159,18,212,62,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(105).jpg 163,96,233,170,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(101).jpg 71,88,275,217,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(104).jpg 345,195,659,439,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(102).jpg 758,614,1362,1012,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(107).jpg 210,105,414,311,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(108).jpg 466,159,587,276,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(109).jpg 493,332,521,369,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(103).jpg 355,201,428,264,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(106).jpg 150,125,372,334,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(114).jpg 332,139,420,191,1 380,218,479,282,1 357,307,518,446,1 675,272,768,341,1 89,95,431,150,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(112).jpg 324,478,438,617,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(110).jpg 219,141,408,270,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(111).jpg 195,138,439,340,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(113).jpg 209,109,279,177,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(117).jpg 140,188,291,293,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(116).jpg 166,68,329,223,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(115).jpg 532,66,658,195,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(119).jpg 174,84,235,147,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(118).jpg 170,81,235,164,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(63).jpg 142,363,374,562,1 527,294,674,473,1 54,9,187,118,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(122).jpg 87,31,223,143,1 393,16,513,160,1 60,233,253,354,1 405,240,510,350,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(120).jpg 98,40,288,181,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(121).jpg 288,129,382,215,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(123).jpg 80,41,240,185,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(64).jpg 301,172,331,216,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(68).jpg 196,120,383,270,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(65).jpg 30,182,1119,705,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(66).jpg 77,165,187,254,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(67).jpg 313,193,754,701,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(70).jpg 174,207,388,418,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(71).jpg 341,123,633,477,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(72).jpg 157,61,492,413,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(69).jpg 105,206,416,416,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(73).jpg 357,126,743,555,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(76).jpg 120,80,168,149,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(77).jpg 345,205,383,248,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(78).jpg 129,96,155,119,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(75).JPG 475,412,595,519,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(74).JPG 71,80,158,150,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(81).jpg 120,103,154,141,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(79).jpg 274,194,487,380,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(83).jpg 128,31,196,142,1 393,29,514,167,1 400,251,505,349,1 67,240,234,361,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(80).jpg 287,308,618,527,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(82).jpg 126,124,177,185,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(88).jpg 258,174,364,280,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(87).jpg 91,63,206,128,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(84).jpg 234,123,668,503,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(85).jpg 125,117,372,276,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(86).jpg 195,105,243,143,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(92).jpg 48,86,152,243,1 434,110,555,240,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(90).jpg 161,171,253,243,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(91).jpg 578,514,676,594,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(89).jpg 177,118,235,149,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(93).jpg 47,76,140,213,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(97).jpg 197,129,240,189,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(94).jpg 190,148,245,210,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(98).JPG 49,58,175,193,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(95).jpg 97,151,326,360,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(96).jpg 450,302,614,476,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\melanoma%20(99).jpg 270,167,368,266,1
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Psoriasis%20(1).jpg 207,332,1005,628,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(13).jpeg 77,61,795,1062,0 815,365,1956,1946,0 2198,731,3921,2061,0 4040,1921,4553,2656,0 3195,1896,4135,2836,0 1844,759,2250,2032,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(183).jpg 138,207,400,343,0 12,342,279,602,0 384,535,564,661,0 651,543,842,651,0 750,365,929,583,0 71,45,224,170,0 272,129,363,187,0 368,348,421,541,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(12).jpg 987,843,2092,1714,0 2123,1222,4665,2898,0 2560,722,4802,1304,0 1642,1425,2278,2382,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(186).jpg 0,1,153,272,0 110,292,238,335,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(188).jpg 173,86,265,165,0 93,4,293,90,0 349,130,410,201,0 93,158,278,226,0 5,120,54,169,0 273,103,303,143,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(185).jpg 2,2,133,103,0 0,97,146,264,0 109,293,245,335,0 146,254,200,293,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(184).jpg 118,365,238,438,0 235,210,370,323,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(187).jpg 564,594,1076,1137,0 789,346,876,390,0 1236,940,1361,1014,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(189).jpg 205,378,567,918,0 1699,562,2120,1112,0 511,906,873,1164,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(190).jpg 56,114,99,151,0 85,30,106,49,0 118,32,144,55,0 133,119,155,144,0 190,97,216,118,0 209,152,230,177,0 23,34,41,50,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(193).jpg 2,153,111,276,0 315,190,416,281,0 425,236,595,422,0 627,260,696,452,0 729,366,771,486,0 121,149,180,200,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(192).jpg 182,21,315,202,0 350,170,454,291,0 297,313,404,409,0 537,101,610,242,0 526,274,661,444,0 5,348,89,434,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(191).jpg 79,81,133,156,0 173,31,218,68,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(198).jpg 98,96,304,307,0 64,129,131,199,0 302,215,353,294,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(194).jpg 29,27,118,138,0 16,58,32,95,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(199).jpg 199,118,351,278,0 360,7,416,39,0 470,231,513,271,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(196).jpg 95,88,217,208,0 118,216,212,291,0 24,235,63,284,0 67,150,102,199,0 253,155,282,284,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(202).jpg 219,260,367,416,0 90,374,343,509,0 492,160,664,354,0 204,191,291,245,0 339,238,456,319,0 342,390,533,504,0 355,134,454,219,0 160,184,196,211,0 140,533,448,592,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(204).jpg 8,1,325,952,0 454,559,561,665,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(205).jpg 79,174,163,288,0 328,120,422,255,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(203).jpg 156,130,168,144,0 170,167,217,217,0 144,223,196,265,0 7,169,32,207,0 30,131,60,154,0 29,210,58,243,0 5,3,39,35,0 77,139,132,241,0 202,110,224,157,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(207).jpg 265,192,438,303,0 361,356,406,405,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(206).jpg 301,856,1102,1223,0 795,1426,1130,1693,0 43,614,398,846,0 718,233,917,454,0 1002,112,1260,306,0 720,649,897,773,0 1065,663,1306,1000,0 826,479,1041,588,0 542,487,655,590,0 278,36,380,116,0 455,203,605,308,0 374,2,730,89,0 181,1413,380,1693,0 960,1217,1129,1310,0 974,1347,1156,1563,0 520,1324,680,1448,0 883,18,1063,144,0 1171,1142,1264,1401,0 1209,1486,1280,1626,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(214).jpg 1077,564,1447,1069,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(208).jpg 786,281,1422,763,0 844,757,1042,887,0 1351,606,1505,788,0 1063,130,1171,272,0 859,147,996,278,0 639,827,789,952,0 762,1013,1015,1121,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(210).jpg 303,211,375,269,0 370,163,398,188,0 376,70,407,101,0 422,7,436,35,0 423,72,440,92,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(215).jpg 56,125,209,233,0 151,68,221,142,0 394,86,465,260,0 340,263,467,321,0 6,178,109,262,0 0,273,33,323,0 146,150,237,265,0 146,150,237,265,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(216).jpg 205,123,575,573,0 581,59,677,384,0 140,331,528,543,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(219).jpg 484,188,894,354,0 378,356,1054,897,0 188,490,372,766,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(217).jpg 315,62,538,284,0 414,14,576,82,0 703,73,753,148,0 234,170,343,234,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(222).jpg 103,228,186,318,0 192,14,261,83,0 349,347,433,592,0 359,203,634,483,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(218).jpg 355,80,708,400,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(221).jpg 835,274,1602,513,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(226).jpg 131,32,266,131,0 79,109,248,140,0 261,67,290,89,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(223).jpg 78,104,251,246,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(227).jpg 84,143,353,201,0 183,50,386,163,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(225).jpg 218,106,289,123,0 64,99,91,190,0 95,65,109,95,0 90,37,134,61,0 193,165,263,181,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(228).jpg 902,2472,1232,2900,0 63,3062,514,3577,0 584,3658,1620,4561,0 1342,3317,1944,3757,0 1724,3826,2679,4567,0 2772,3463,3032,3920,0 2968,3161,3298,3577,0 2268,2570,2569,2952,0 1388,2507,2071,2860,0 1568,2946,1892,3369,0 196,2489,624,2703,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(232).jpg 32,29,2736,1517,0 106,1612,2707,3240,0 250,3302,2608,3590,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(230).jpg 257,110,441,299,0 357,316,436,371,0 590,366,605,383,0 217,334,283,373,0 515,331,540,357,0 621,390,700,451,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(235).jpg 393,236,715,414,0 223,12,326,124,0 8,502,376,658,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(231).jpg 24,186,193,355,0 409,4,594,100,0 618,62,724,185,0 474,118,556,214,0 236,331,293,384,0 147,39,262,182,0 293,219,597,312,0 294,416,571,513,0 658,300,794,399,0 39,371,185,444,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(229).jpg 827,2541,1284,2900,0 2245,2553,2500,2918,0 51,3097,497,3774,0 566,3722,1626,4556,0 1377,3357,2042,4417,0 2089,3768,2627,4504,0 2780,3310,3058,3860,0 2934,3161,3235,3554,0 184,2466,566,2750,0 1446,2472,1961,3068,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(238).jpg 185,206,371,339,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(240).jpg 164,165,313,234,0 271,152,313,234,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(239).jpg 515,198,758,400,0 353,471,481,574,0 584,646,765,738,0 1010,481,1170,650,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(236).jpg 124,2,182,42,0 127,84,165,108,0 132,136,182,177,0 24,136,67,179,0 234,115,258,131,0 107,194,132,212,0 33,184,55,203,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(237).jpg 226,33,604,189,0 189,190,452,344,0 526,200,636,253,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(243).jpg 24,45,170,167,0 185,23,406,122,0 216,133,288,215,0 0,162,121,262,0 375,141,443,235,0 126,219,178,292,0 190,246,289,298,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(241).jpg 263,7,491,330,0 81,248,140,285,0 171,44,203,75,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(245).jpg 194,50,769,579,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(246).jpg 264,68,876,633,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(248).jpg 167,211,316,333,0 174,41,283,214,0 74,362,181,392,0 141,289,192,366,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(247).jpg 228,64,696,333,0 111,157,344,296,0 438,329,527,402,0 256,338,305,404,0 241,27,364,78,0 475,8,571,62,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(249).jpg 660,545,871,733,0 922,657,1025,750,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(250).jpg 405,49,555,171,0 285,100,383,187,0 301,272,406,350,0 332,225,470,270,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(252).jpg 967,122,1130,523,0 143,1,1663,723,0 20,395,1772,1147,0 22,203,216,402,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(255).jpg 185,99,421,243,0 207,246,263,274,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(254).jpg 229,262,432,333,0 281,343,374,384,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(251).jpg 6,41,320,162,0 0,170,320,317,0 9,2,307,33,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(253).jpg 323,246,466,290,0 480,182,529,224,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(259).jpg 88,118,171,202,0 87,55,115,82,0 184,120,219,156,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(257).jpg 513,303,559,359,0 384,119,413,181,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(260).jpg 937,538,1240,797,0 679,732,854,857,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(256).jpg 331,1801,878,2318,0 2364,1908,2635,2168,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(258).jpg 134,43,351,171,0 71,244,378,403,0 48,464,213,605,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(261).jpg 164,62,210,105,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(213).jpg 332,97,687,468,0 371,13,704,107,0 297,461,658,524,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(212).jpg 86,27,375,249,0 412,113,610,223,0 188,375,405,486,0 560,370,658,438,0 207,265,392,380,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(211).jpg 363,241,540,433,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(262).jpg 147,166,899,523,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(264).jpg 333,393,1439,879,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(267).jpg 21,6,480,215,0 108,223,405,412,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(263).jpg 147,70,376,328,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(265).jpg 257,362,1037,931,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(270).jpg 298,181,339,212,0 290,320,319,332,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(269).jpg 82,26,229,192,0 102,210,222,313,0 241,151,287,236,0 56,214,110,277,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(268).jpg 101,29,167,95,0 101,192,265,261,0 331,74,385,109,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(271).jpg 165,153,281,268,0 399,154,506,255,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(272).jpg 304,84,408,196,0 220,135,260,208,0 339,244,375,269,0 235,104,250,130,0 332,67,422,102,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(274).jpg 148,67,307,223,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(275).jpg 137,102,175,137,0 119,156,157,190,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(276).jpg 32,75,182,275,0 101,15,157,92,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(273).jpg 46,65,175,143,0 59,28,198,65,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(277).jpg 350,328,1006,535,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(281).jpg 224,57,533,329,0 91,320,547,422,0 552,215,663,391,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(282).jpg 281,202,881,564,0 209,267,374,647,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(279).jpg 256,326,1400,1350,0 744,1398,1701,1939,0 1436,528,2007,1496,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(278).jpg 158,198,771,547,0 835,305,934,556,0 983,353,1087,510,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(287).jpg 343,494,716,682,0 422,43,661,171,0 311,395,743,529,0 435,190,733,372,0 280,112,421,243,0 670,74,818,190,0 174,348,276,408,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(285).jpg 9,5,653,450,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(286).jpg 185,181,379,317,0 233,122,312,198,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(283).jpg 104,260,1016,438,0 368,118,977,296,0 89,452,368,583,0 517,447,732,550,0 138,697,306,754,0 905,640,1086,744,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(289).jpg 93,96,142,141,0 127,33,154,71,0 87,40,107,62,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(292).jpg 211,124,252,169,0 191,152,229,215,0 239,53,275,84,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(290).jpg 112,37,196,101,0 52,184,105,221,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(288).jpg 1698,1906,2350,2616,0 2510,1648,2721,1917,0 2264,1132,2393,1425,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(294).jpg 136,88,237,198,0 338,133,382,175,0 200,290,310,332,0 129,225,188,255,0 326,230,394,270,0 413,275,455,323,0 377,190,463,250,0 275,187,307,209,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(293).jpg 68,55,194,186,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(296).JPG 52,23,211,151,0 14,65,42,157,0 91,166,194,219,0 227,52,278,142,0 71,3,215,21,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(297).jpg 20,50,272,160,0 293,67,372,172,0 119,168,283,203,0 118,35,274,50,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(295).JPG 71,83,219,160,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(298).jpg 48,188,99,273,0 432,149,499,265,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(300).jpg 467,69,805,386,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(301).jpg 354,17,708,343,0 203,388,307,493,0 262,522,734,683,0 359,393,760,520,0 879,221,956,553,0 725,21,839,391,0 62,273,128,331,0 23,525,137,660,0 204,256,315,360,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(299).jpg 378,108,570,214,0 4,62,178,161,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(302).jpg 564,214,846,568,0 930,214,1024,382,0 406,291,558,480,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(303).jpg 22,8,205,202,0 214,60,305,289,0 328,146,428,317,0 432,223,529,379,0 539,296,571,411,0 245,301,434,366,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(305).jpg 217,25,579,422,0 163,91,302,351,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(304).jpg 145,109,569,286,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(306).jpg 787,504,1028,742,0 693,700,883,868,0 1212,1050,1356,1163,0 402,578,543,637,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(307).jpg 95,114,256,276,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(309).jpg 128,91,258,251,0 297,204,354,223,0 347,138,386,160,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(310).jpg 218,281,437,552,0 91,517,447,606,0 289,164,404,278,0 224,598,383,665,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(311).jpg 169,71,218,165,0 304,85,351,150,0 153,122,173,162,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(308).jpg 70,19,373,260,0 36,259,444,360,0 380,75,559,291,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(314).jpg 94,155,217,284,0 147,336,205,369,0 103,415,135,443,0 155,403,221,432,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(315).jpg 257,58,321,165,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(317).jpg 99,252,402,386,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(316).jpg 45,46,172,292,0 232,93,426,227,0 441,172,548,242,0 508,5,539,43,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(318).jpg 278,131,419,255,0 293,263,401,329,0 122,119,214,170,0 138,203,256,260,0 190,276,288,329,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(320).jpg 11,17,348,209,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(322).jpg 44,124,344,191,0 28,4,148,84,0 228,28,331,119,0 150,51,176,134,0 7,68,155,129,0 333,25,387,128,0 139,208,139,208,0 125,197,211,224,0 230,202,270,224,0 149,9,176,27,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(321).jpg 503,231,818,474,0 355,461,506,587,0 123,57,210,170,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(319).jpg 315,198,881,526,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(326).jpg 45,174,192,298,0 419,83,579,209,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(327).jpg 11,4,242,418,0 327,103,687,555,0 88,467,651,636,0 708,147,938,496,0 249,217,378,466,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(325).jpg 230,123,365,255,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(324).jpg 508,45,1051,678,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(323).jpg 96,282,542,446,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(332).jpg 64,58,333,277,0 140,6,387,71,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(330).jpg 110,117,166,179,0 1,32,66,91,0 166,215,196,249,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(329).jpg 17,113,215,248,0 140,258,238,315,0 179,76,358,222,0 298,45,430,128,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(331).JPG 214,672,845,1200,0 924,819,1707,1340,0 1946,797,2814,1153,0 1968,1180,2313,1245,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(328).jpg 266,273,701,506,0 1211,63,1284,183,0 1413,31,1530,229,0 1391,267,1475,432,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(337).jpg 195,88,578,293,0 451,381,607,515,0 534,301,673,462,0 591,7,711,159,0 53,26,242,127,0 102,396,222,520,0 295,352,371,396,0 622,181,673,227,0 410,2,491,59,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(333).jpg 299,168,438,252,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(334).jpg 111,87,187,163,0 184,56,236,114,0 119,170,215,236,0 149,241,248,330,0 270,71,384,148,0 338,155,381,231,0 292,232,357,319,0 276,10,304,41,0 180,10,211,45,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(335).jpg 475,378,1095,914,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(336).jpg 189,399,548,938,0 293,87,568,418,0 45,471,170,625,0 561,539,676,714,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(340).jpg 25,14,182,315,0 5,132,203,242,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(338).jpg 302,133,563,501,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(342).jpg 201,117,398,377,0 4,49,158,219,0 322,386,420,436,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(339).jpg 497,279,702,485,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(344).jpg 45,7,162,45,0 73,131,148,160,0 172,82,200,110,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(343).jpg 502,161,570,300,0 348,30,411,119,0 513,10,586,118,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(345).jpg 387,196,532,304,0 306,343,379,388,0 487,580,567,651,0 505,365,594,460,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(347).jpg 171,15,467,258,0 326,279,537,362,0 86,173,142,234,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(346).jpg 259,228,418,468,0 431,356,583,641,0 286,39,530,212,0 745,276,863,444,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(349).jpg 73,52,289,146,0 136,32,276,55,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(352).jpg 236,307,302,375,0 325,373,556,430,0 536,297,701,375,0 711,253,821,320,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(351).jpg 268,123,324,172,0 214,59,282,111,0 335,161,375,208,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(348).jpg 275,269,451,463,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(350).jpg 578,483,1019,653,0 14,461,132,565,0 485,626,616,718,0 1062,493,1155,606,0 746,410,990,543,0 203,302,376,388,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(357).jpg 161,199,666,380,0 274,144,605,227,0 169,386,416,481,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(356).jpg 156,90,504,400,0 28,37,196,232,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(355).jpg 113,43,215,165,0 180,24,254,70,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(354).jpg 70,139,201,317,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(353).jpg 500,220,735,418,0 627,469,746,585,0 565,33,657,137,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(359).jpg 153,77,223,143,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(362).jpg 62,116,273,338,0 435,132,661,336,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(361).jpg 71,136,333,243,0 254,268,337,336,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(10).jpg 99,51,269,184,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\Rosacea%20(1).jpg 110,196,215,297,2 26,168,99,247,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\psoriasis%20(363).jpg 14,51,144,160,0 197,99,260,164,0 280,159,363,193,0
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(11).jpg 119,60,282,204,2 4,119,74,171,2 299,55,360,161,2 112,7,278,57,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(12).jpg 243,323,602,712,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(13).jpg 516,213,998,438,2 219,327,373,498,2 619,24,1032,254,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(17).jpg 122,46,299,216,2 7,41,105,134,2 27,247,178,328,2 309,48,350,167,2 48,4,194,98,2 196,227,266,324,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(14).jpg 9,41,157,194,2 339,23,472,176,2 206,15,315,134,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(16).jpg 468,111,714,337,2 128,634,326,802,2 63,163,151,279,2 267,122,354,232,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(15).jpg 0,63,83,209,2 243,101,342,257,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(2).jpg 496,810,1052,1294,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(21).jpg 91,25,424,181,2 309,0,518,95,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(19).jpg 28,127,577,556,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(18).jpg 163,138,350,310,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(20).JPG 112,195,553,413,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(25).jpg 135,161,474,332,2 281,32,439,165,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(22).jpg 33,57,312,328,2 338,119,638,300,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(24).jpg 68,71,120,143,2 154,37,244,92,2 262,40,334,137,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(23).jpg 261,261,749,580,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(26).jpg 52,202,760,597,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(29).jpg 101,129,263,233,2 20,154,104,205,2 120,292,232,334,2 261,21,309,121,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(27).jpg 88,54,183,120,2 251,10,312,77,2 335,23,448,128,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(28).jpg 40,37,383,196,2 301,0,386,117,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(30).jpg 184,120,362,252,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(3).jpg 33,21,160,97,2 178,37,298,120,2 118,198,264,239,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(31).jpg 179,12,378,135,2 331,2,407,115,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(32).jpg 95,47,594,130,2 133,2,567,65,2 79,117,200,178,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(33).jpg 47,129,544,321,2 268,22,501,157,2 191,100,267,165,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(35).jpg 5,69,187,244,2 211,57,441,244,2 478,107,640,267,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(34).jpg 197,38,614,251,2 62,36,235,113,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(37).jpg 97,49,254,154,2 129,3,255,66,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(38).jpg 205,41,599,380,2 36,20,190,118,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(36).jpg 394,37,621,208,2 246,10,374,82,2 333,118,463,270,2 376,20,489,105,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(4).jpg 22,37,149,131,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(39).jpg 221,186,507,353,2 100,222,248,333,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(40).jpg 47,175,304,317,2 226,71,340,212,2 7,237,94,337,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(43).jpg 82,10,293,132,2 10,28,96,112,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(42).jpg 324,194,745,484,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(41).jpg 149,51,304,223,2 0,41,33,112,2 94,79,152,141,2 233,15,322,75,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(44).jpg 249,307,461,381,2 254,62,477,160,2 373,17,474,90,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(49).jpg 33,17,233,62,2 68,6,216,26,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(47).jpg 6,95,171,368,2 152,52,311,146,2 560,39,834,292,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(46).jpg 58,18,442,80,2 62,89,188,164,2 307,83,440,168,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(45).jpg 239,72,698,426,2 276,442,568,645,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(48).jpg 146,91,663,489,2 352,4,659,227,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(6).jpg 214,39,283,273,2 42,173,268,284,2 80,126,234,193,2 117,86,251,132,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(5).jpg 75,50,408,164,2 313,248,363,322,2 350,167,403,217,2 163,8,343,64,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(51).jpg 359,274,786,560,2 119,243,226,508,2 44,394,139,490,2 606,595,752,694,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(50).jpg 541,767,1008,1142,2 218,150,797,380,2 101,740,725,965,2 278,1228,608,1444,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(7).jpg 36,47,452,129,2
+C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Training_Images\vott-csv-export\rosacea%20(9).jpg 43,17,288,161,2
